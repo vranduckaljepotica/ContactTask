@@ -1,0 +1,32 @@
+[
+    {
+        "firstName" : "John",
+        "lastName" : "Doe",
+        "email" : "johndoe@fake.com",
+        "phone" : "1234567890"
+    },
+    {
+        "firstName" : "Jane",
+        "lastName" : "Doe",
+        "email" : "janedoe@fake.com",
+        "phone" : "1234567890"
+    },
+    {
+        "firstName" : "Jamie",
+        "lastName" : "Doe",
+        "email" : "jamiedoe@fake.com",
+        "phone" : "1234567890"
+    },
+    {
+        "firstName" : "James",
+        "lastName" : "Doe",
+        "email" : "jamiedoe@fake.com",
+        "phone" : "1234567890"
+    },
+    {
+        "firstName" : "Janine",
+        "lastName" : "Doe",
+        "email" : "jamiedoe@fake.com",
+        "phone" : "1234567890"
+    }
+]

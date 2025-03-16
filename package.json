@@ -1,0 +1,16 @@
+{
+  "name": "atlantbh-task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:smoke": "jest api_smoke.cy.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^14.2.0"
+  }
+}
