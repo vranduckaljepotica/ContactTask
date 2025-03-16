@@ -3,7 +3,7 @@ describe("API Smoke Tests - Contact List", () => {
   let contactId;
 
   before(() => {
-    /**cy.request("POST", "https://thinking-tester-contact-list.herokuapp.com/users", {
+    cy.request("POST", "https://thinking-tester-contact-list.herokuapp.com/users", {
       firstName: "Test",
       lastName: "User",
       email: "matthewjohnsonjr@fake.com",
@@ -11,7 +11,7 @@ describe("API Smoke Tests - Contact List", () => {
     }).then((response) => {
       expect(response.status).to.eq(201);
       authToken = response.body.token; // Save token for authentication
-    });*/
+    });
   });
 
   it("Should fetch contact list", () => {
